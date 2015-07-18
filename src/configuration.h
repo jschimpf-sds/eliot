@@ -77,7 +77,7 @@
 #define CONFIG_HAS_USHORT               0
 #define CONFIG_HAS_LONGLONG             1
 #define CONFIG_HAS_INT64                0
-#define CONFIG_USE_SBRK                 1
+#define CONFIG_USE_SBRK                 0
 
 #endif /* MACOSX */
 
